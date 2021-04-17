@@ -22,5 +22,8 @@
   "devDependencies": {
     "nodemon": "^1.19.4",
     "socket.io": "^1.7.4"
+  },
+  "scripts": {
+  "start": "node server.js"
   }
 }
